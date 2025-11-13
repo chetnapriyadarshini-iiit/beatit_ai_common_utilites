@@ -8,6 +8,9 @@ import os
 import sqlite3
 from sqlite3 import Error
 
+# utils.py
+def placeholder():
+    return "common utils loaded"
 
 ###############################################################################
 # Define the function to build database
